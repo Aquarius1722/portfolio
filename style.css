@@ -21,10 +21,10 @@ a{
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-    visibility: hidden;
+    /*visibility: hidden;
     opacity: 0;
     animation: 1.5s linear forwards;
-    animation-delay: 1.2s;
+    animation-delay: 1.2s;*/
 }
 
 @keyframes show-content {
@@ -219,4 +219,5 @@ a{
     100%{
         transform: translateY(0%);
     }
+
 }
