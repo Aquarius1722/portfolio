@@ -24,7 +24,7 @@ a{
     /*visibility: hidden;
     opacity: 0;
     animation: 1.5s linear forwards;
-    animation-delay: 1.2s;*/
+    animation-delay: 1.2s;
 }
 
 @keyframes show-content {
@@ -32,7 +32,7 @@ a{
         visibility: visible;
         opacity: 1;
     }
-}
+}*/
 .navbar .logo{
     font-size: 30px;
     font-weight: 700;
@@ -221,3 +221,4 @@ a{
     }
 
 }
+
